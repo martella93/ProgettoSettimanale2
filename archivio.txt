@@ -1,0 +1,6 @@
+Rivista: Giallo zafferano (ISBN: hju213), Anno di pubblicazione: 2021, Numero di pagine: 40, Periodicità: SETTIMANALE
+Libro: Moby dick (ISBN: fer785), Anno di pubblicazione: 2010, Numero di pagine: 320, Autore: Luca, Genere: Fnatascienza
+Rivista: Undici (ISBN: dre456), Anno di pubblicazione: 2023, Numero di pagine: 60, Periodicità: MENSILE
+Libro: Harry Potter (ISBN: gte587), Anno di pubblicazione: 2002, Numero di pagine: 560, Autore: J.K.Rowling, Genere: Fnatascienza
+Rivista: Forbes (ISBN: pol563), Anno di pubblicazione: 2024, Numero di pagine: 100, Periodicità: SEMESTRALE
+Libro: Il codice da vinci (ISBN: fsa698), Anno di pubblicazione: 1999, Numero di pagine: 450, Autore: Dan Brown, Genere: Thriller
